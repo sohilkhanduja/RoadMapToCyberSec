@@ -21,22 +21,28 @@
    * MITM
    * Spoofing [ARP spoofing, DNS spoofing]
    * Different types of protocols
+   * Nmap
+   * https://tryhackme.com/room/furthernmap
    * Wireshark
    * tcpdump
    
 ---
 ## Web:
+   * How the web works
    * HTTP/HTTPS
    * HTTP headers
    * HTTP request
    * HTTP response
    * Different type of vulnerablilities
+   * https://portswigger.net/web-security/learning-path
    * Burpsuite or ZAP
    * Hackerone reports
    
 ---   
 ## Windows:
-   * Windows
+   * Windows fundamentals
+   * https://tryhackme.com/room/windowsfundamentals1xbx
+   * https://tryhackme.com/room/windowsfundamentals2x0x
    * Privilege Escalation
    
 ---    
@@ -76,11 +82,14 @@
 
 ---
 ## OSINT:
+* https://tryhackme.com/room/googledorking
+* https://www.youtube.com/watch?v=qwA6MmbeGNo
+* https://osintframework.com/
 
 ---
 ## Notes:
    * Create notes consistently
-   * CTFs & write-ups
+   * Practice CTFs & make their write-ups
    * CTFTime.org
    
 ---    
@@ -89,3 +98,6 @@
    * https://null-byte.wonderhowto.com/
    * Medium articles
    * https://www.hackingarticles.in/
+---
+## Getting started with CTF'S/Information Security:
+   * https://teachyourselfinfosec.com/
