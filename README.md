@@ -37,6 +37,7 @@
    * https://portswigger.net/web-security/learning-path
    * Burpsuite or ZAP
    * https://owasp.org/www-project-web-security-testing-guide/
+   * https://cheatsheetseries.owasp.org/Glossary.html
    * Hackerone reports
    
 ---   
