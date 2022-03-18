@@ -36,6 +36,7 @@
    * Different type of vulnerablilities
    * https://portswigger.net/web-security/learning-path
    * Burpsuite or ZAP
+   * https://owasp.org/www-project-web-security-testing-guide/
    * Hackerone reports
    
 ---   
