@@ -11,6 +11,7 @@
    * https://tryhackme.com/room/linuxfundamentalspart2
    * https://tryhackme.com/room/linuxfundamentalspart3
    * Linux Basics for Hackers
+   * https://gtfobins.github.io/
    * Privilege Escalation
    
 ---
