@@ -104,3 +104,7 @@
 ---
 ## Getting started with CTF'S/Information Security:
    * https://teachyourselfinfosec.com/
+   * https://infosecwriteups.com/beginners-guide-to-ctfs-c934a0d7f5f9 (Medium article)
+---
+## Books that can be used
+* Attached in Books Folder
